@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/gJpsAgs4zbkAAAAM/warrior.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="sourav-kushwaha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sourav181096898" target="blank"><img src="https://img.shields.io/twitter/follow/@sourav181096898?logo=twitter&style=for-the-badge" alt="@sourav181096898" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sourav181096898" target="blank"><img src="https://img.shields.io/twitter/follow/sourav181096898?logo=twitter&style=for-the-badge" alt="sourav181096898" /></a> </p>
 
 - 🔭 I’m currently working on **movie recoomendation website**
 
