@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **contactsouravkushwaha@gmail.com**
 
-- ⚡ Fun fact **I think i'm a Looser.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
