@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Singh Kushwaha</h1>
-<h3 align="center">An Optimistic Guy 🇮🇳</h3>
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" />
@@ -7,10 +7,17 @@
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **MERN STACK DEVELOPMENT**
+## 🧑‍💻 About Me
+
+
+
+- 🔭 Working on **Movie Recommendation Website**
 - 🌱 Learning **React, PostgreSQL, and Backend Development**
 - 📫 Reach me at: **contactsouravkushwaha@gmail.com**
+
+  <p align="right">
+  <img src="https://media.tenor.com/gJpsAgs4zbkAAAAM/warrior.gif" width="250"/>
+</p>
 
 ---
 
