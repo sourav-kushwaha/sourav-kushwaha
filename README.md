@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourav Singh Kushwaha</h1>
-<h3 align="center">An Optimistic Guy🇮🇳</h3>
-
+<h3 align="center">An Optimistic Guy 🇮🇳</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/gJpsAgs4zbkAAAAM/warrior.gif">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sourav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
