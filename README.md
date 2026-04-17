@@ -11,7 +11,7 @@
 
 
 
-- 🔭 Working on **Movie Recommendation Website**
+- 🔭 Working on **MERN STACK DEVELOPMENT**
 - 🌱 Learning **React, PostgreSQL, and Backend Development**
 - 📫 Reach me at: **contactsouravkushwaha@gmail.com**
 
