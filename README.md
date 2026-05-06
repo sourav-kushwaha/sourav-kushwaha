@@ -23,7 +23,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/sourav-kushwaha">
+  <a href="https://linkedin.com/in/sourav">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://instagram.com/_sourav_">
