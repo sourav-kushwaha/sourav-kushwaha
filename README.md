@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/sourav-kushwaha">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/_sourav_kushwaha">
+  <a href="https://instagram.com/_sourav_">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   <a href="https://www.youtube.com/">
